@@ -1,0 +1,30 @@
+.main {
+    padding: 18px 0px;
+    background: #fff;
+
+    h3 {
+        padding: 0 55px;
+        font-size: 21px;
+        line-height: 21px;
+        margin: 29px 0 37px;
+    }
+
+    .film {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+        padding: 0 55px 45px 55px;
+        justify-content: space-around;
+        border-bottom: 1px solid #c1c7d1;
+    }
+
+    .scoro {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 15px;
+        flex-wrap: wrap;
+        padding: 0 55px 45px 55px;
+
+    }
+}
